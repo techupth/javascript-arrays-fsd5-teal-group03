@@ -11,8 +11,8 @@ const employees = [
   },
 ];
 // Start coding here
-let alex = employees[0].name;
-let alexHobbies = employees[0].hobbies;
+let alex = employees[1].name;
+let alexHobbies = employees[1].hobbies;
 let alexAndJamesAge = employees[0].age + employees[1].age;
 
 console.log(alex);
